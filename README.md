@@ -1,1 +1,1 @@
-# Sublime-Text-Build-3176-License-Key-
+# Sublime-Text-Build-3176-License-Key
