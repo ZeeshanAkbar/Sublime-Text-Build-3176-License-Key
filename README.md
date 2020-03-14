@@ -8,6 +8,7 @@ https://www.sublimetext.com/download
 #### Sublime Text 3 (Build 3176)
 #### Version: 3.1.1
 
+```
 ----- BEGIN LICENSE -----
 sgbteam
 Single User License
@@ -21,3 +22,4 @@ EA7E-1153259
 5F7EF854 86B9743C FADC04AA FB0DA5C0
 F913BE58 42FEA319 F954EFDD AE881E0B
 ------ END LICENSE ------
+```
